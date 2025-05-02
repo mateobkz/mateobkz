@@ -20,11 +20,20 @@ With experiences across e-commerce, private banking, and entrepreneurship, I lov
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack:
 
-- **Languages**: Python, SQL, HTML/CSS, JavaScript (learning)
-- **Tools**: AWS (Redshift, S3, Lambda), Excel, Figma, ChatGPT, QuickSight  
-- **Concepts**: ETL Pipelines, APIs, Data Warehousing, Data Visualization, Financial Modeling  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-F8991D?style=for-the-badge&logo=awslambda&logoColor=white)
+![QuickSight](https://img.shields.io/badge/QuickSight-FFCC00?style=for-the-badge&logo=amazon&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ---
 
