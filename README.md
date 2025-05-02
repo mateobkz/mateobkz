@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mateo Bokobza
+# 👋 Hi, I'm Mateo
 
 🎓 Business Administration student at [ESADE Business School](https://www.esade.edu/) (Class of 2025)  
 💼 Currently a **Business Intelligence Engineer Intern at Amazon**  
